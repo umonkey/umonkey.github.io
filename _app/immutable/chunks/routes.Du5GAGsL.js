@@ -1,0 +1,1 @@
+const t={file:e=>`https://yerevan.treemaps.app/v1/files/${e}.jpg`,search:"/search",searchQuery:e=>`/map?q=${e}`,treeComments:e=>`/tree/${e}/comments`,treeDetails:e=>`/tree/${e}`,treeEdit:e=>`/tree/${e}/edit`,treeHistory:e=>`/tree/${e}/history`,treeMap:e=>`/tree/${e}/map`};export{t as r};
